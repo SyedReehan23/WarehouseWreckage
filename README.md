@@ -16,11 +16,11 @@ A physics-based Unreal Engine game where players throw balls at warehouse props 
 
 1. **Clone this repository:**  
 
-Open the project in Unreal Engine.
+2.Open the project in Unreal Engine.
 
-Build and run the game to start playing!
+3.Build and run the game to start playing!
 
-Gameplay Instructions
-Move around the warehouse using WASD keys.
-Aim and throw balls at objects using the left mouse button.
-Watch the objects react dynamically with physics-based interactions!
+## Gameplay Instructions
+.Move around the warehouse using WASD keys.
+.Aim and throw balls at objects using the left mouse button.
+.Watch the objects react dynamically with physics-based interactions!
